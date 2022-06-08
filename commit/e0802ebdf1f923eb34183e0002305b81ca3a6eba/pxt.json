@@ -4,7 +4,8 @@
         "device": "*",
         "animation": "*",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
-        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0"
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "sound effects": "github:klausw3/pxt-sound-effects#v1.1.0"
     },
     "files": [
         "main.blocks",
@@ -18,13 +19,13 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.8.23",
+        "target": "1.8.26",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "palette": [
         "#000000",
         "#BBBAB9",
